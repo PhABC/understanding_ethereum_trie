@@ -6,7 +6,7 @@ Hopefully, this will help those confused soles who have yet to grasp the trie.
 
 **PhABC Edits** ;
 
-Written with/for:
+Updated scripts to be compatible with :
   + ethereum 2.0.4
   + python 3.6
   + rlp 0.5.1
